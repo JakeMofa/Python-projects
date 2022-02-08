@@ -1,0 +1,15 @@
+[
+    {
+        "Memo": "The total number of stock(s) found : ",
+        "Status": "Stock market fluctuating",
+        "StockNames": [
+            {
+                "Name": "Netflix",
+                "Ticker" : "NFLX",
+                "Stock number:" "1000"
+
+
+
+            }
+        ]
+}
